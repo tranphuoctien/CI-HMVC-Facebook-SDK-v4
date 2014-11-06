@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Login with Facebook | Puneet Kalra</title>
+    <title>CI - SDK FB v4</title>
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
     <style type="text/css">
@@ -50,7 +50,7 @@
                 <h2 class="form-signin-heading">Login with Facebook</h2>
                 <a href="<?= $login_url ?>" class="btn btn-lg btn-primary btn-block" role="button">Login</a>
             <?php endif; ?>
-            <a href="https://github.com/puneetkay/Facebook-PHP-CodeIgniter" class="btn btn-lg btn-success btn-block" target="_blank" role="button">View Source on Github</a>
+            <a href="https://github.com/tranphuoctien/CI-HMVC-Facebook-SDK-v4/" class="btn btn-lg btn-success btn-block" target="_blank" role="button">View Source on Github</a>
 
             
         </form>
